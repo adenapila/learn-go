@@ -1,4 +1,3 @@
 # learn-go
 
-#Production
-dev-learn-go.netlify.com
+https://dev-learn-go.netlify.com/
